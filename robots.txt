@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haba713.github.io/paku/sitemap.xml
