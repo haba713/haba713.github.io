@@ -4,3 +4,5 @@ url: "https://haba713.github.io"
 lang: en
 exclude:
   - README.md
+  - AGENTS.md
+  - CLAUDE.md
